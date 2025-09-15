@@ -20,6 +20,7 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 
 PROCEDURE:
+
 a.   KVL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
@@ -45,30 +46,35 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-
+<img width="1917" height="1110" alt="Screenshot 2025-09-15 134115" src="https://github.com/user-attachments/assets/5a37c616-151c-495e-98cc-594a3edafa8c" />
 
 b.  KCL:
  
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/bf0785d5-a8f3-4546-8e7b-8f19e9e55009" />
 
 Calculation:
 
 a.   KVL:
- 
+
+
+![WhatsApp Image 2025-09-15 at 13 37 23_eea30ac6](https://github.com/user-attachments/assets/36342e9f-ceb0-4d8b-b85c-755ed45b4d98)
 
 
 b.  KCL:
 
 
+![WhatsApp Image 2025-09-15 at 13 37 24_ea2cd898](https://github.com/user-attachments/assets/07ffec1a-7cb4-4c22-b724-fac42ce39fef)
 
 
 Tabulation:
 
 a.   KVL:
  
-
+![WhatsApp Image 2025-09-15 at 13 37 23_9b3cf4ab](https://github.com/user-attachments/assets/7d540148-afc4-4ef7-8d8f-1b893349ca76)
 
 b.  KCL:
 
+![WhatsApp Image 2025-09-15 at 13 37 24_2b2603ee](https://github.com/user-attachments/assets/06ccb36d-e893-4591-9cb6-ce25ed379116)
 
 
 RESULT:
